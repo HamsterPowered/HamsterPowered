@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamsterPowered
-- 👀 I’m interested in Robotics, and front end developmnet
+- 👀 I’m interested in Robotics, and back end developmnet
 - 🌱 I’m currently learning React, TypeSript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriel@karpinsky.sk
